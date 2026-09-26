@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = adrian.warlick@gmail.com
+	name = Adrian Warlick
